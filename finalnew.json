@@ -1,0 +1,28 @@
+[
+    {
+        "questionId": "30",
+        "ques": "what is data 3",
+        "status": "true treue",
+        "conditions": {
+            "valid_responses": [
+                {
+                    "from": "2",
+                    "to": "4"
+                }
+            ]
+        }
+    },
+    {
+        "ques": "ques5",
+        "questionId": "01",
+        "status": "true",
+        "conditions": {
+            "valid_responses": [
+                {
+                    "from": "1",
+                    "to": "1"
+                }
+            ]
+        }
+    }
+]
